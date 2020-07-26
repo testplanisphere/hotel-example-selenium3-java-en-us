@@ -1,6 +1,6 @@
 # hotel-example-selenium3-java-en-us
 
-
+![selenium3-java-en-us](https://github.com/testplanisphere/hotel-example-selenium3-java-en-us/workflows/selenium3-java-en-us/badge.svg)
 
 This project is example codes for learning test automation.
 
@@ -55,3 +55,7 @@ gradlew.bat clean check
 ```
 
 ### Changelog
+
+#### v2020.7.0 (2020-07-26)
+
+* First release
