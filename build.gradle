@@ -4,7 +4,7 @@ plugins {
     id 'checkstyle'
 }
 
-version = '2020.7.0'
+version = '2020.8.0'
 
 java {
     sourceCompatibility = JavaVersion.VERSION_11
