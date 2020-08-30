@@ -56,6 +56,10 @@ gradlew.bat clean check
 
 ### Changelog
 
+#### v2020.8.0 (2020-08-30)
+
+* [#2](https://github.com/testplanisphere/hotel-example-selenium3-java-en-us/pull/2) Bump Gradle from 6.5.1 to 6.6.1
+
 #### v2020.7.0 (2020-07-26)
 
 * First release
